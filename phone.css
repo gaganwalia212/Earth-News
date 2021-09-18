@@ -62,7 +62,7 @@ h2,h3,h4,h5,h6{
 .nav ul{
 	width: 90%;
 	justify-content: space-around;
-	font-size: 3rem;
+	font-size: 4rem;
 
 	
 }
@@ -120,6 +120,7 @@ h2,h3,h4,h5,h6{
 
 #section3{
 	height: auto;
+	margin-top: 2rem;
 	
 
 }
@@ -140,6 +141,7 @@ h2,h3,h4,h5,h6{
 /*////////////////////////////////India News/////////////////////////*/
 
 #IndiaNews{
+	margin: 2rem;
 	
 	
 }
