@@ -62,7 +62,7 @@ h2,h3,h4,h5,h6{
 .nav ul{
 	width: 90%;
 	justify-content: space-around;
-	font-size: 2rem;
+	font-size: 3rem;
 
 	
 }
@@ -90,8 +90,8 @@ h2,h3,h4,h5,h6{
 /*/////////////////////////////////////////////Section 2//////////////////////////////////////////*/
 
 #section2{
-    margin-bottom: 2.2rem;
-    margin-top: 0;
+	margin-top: 2.2rem;
+    margin-bottom: 2.5rem;
     text-align: center;	
 }
 
