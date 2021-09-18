@@ -1,0 +1,205 @@
+*{
+	
+}
+body{
+	
+}
+h1{
+}
+h2,h3,h4,h5,h6{
+}
+
+.h-1{
+	font-size: 10rem;
+}
+
+.h-2{
+	font-size: 6rem;
+}
+.h-3{
+	font-size: 3.5rem;
+}
+
+.h-4{
+	font-size: 3rem;
+}
+
+.h5{
+	font-size: 3rem;
+}
+
+
+
+/*///////////////////////////////////HEADER SECTION/////////////////////////////////////*/
+#header{
+	height: 65rem;
+	
+}
+
+#header .h-1{
+	margin-top: 13rem;
+
+}
+
+#header .h-4{
+	
+}
+
+
+
+.nav{
+
+
+
+}
+
+
+.nav div{
+	flex-direction: column;
+	height: 13rem;
+	justify-content: space-around;
+}
+.nav ul{
+	width: 90%;
+	justify-content: space-around;
+	font-size: 2rem;
+
+	
+}
+.nav ul li{
+	
+}
+#header .nav a{
+	
+
+}
+#header .nav a:hover{
+	
+	
+}
+.nav a:visited{
+	
+}
+
+.fa-globe-americas{
+	
+}
+
+/*////////////////////////////////////////////////////////////////////////////////////////////*/
+
+/*/////////////////////////////////////////////Section 2//////////////////////////////////////////*/
+
+#section2{
+    margin-bottom: 2.2rem;
+    margin-top: 0;
+    text-align: center;	
+}
+
+.box{
+	
+}
+
+.box i{
+	
+}
+.box .h-3{
+	
+	
+
+}
+
+.box p{
+	font-size: 2rem;
+	
+
+}
+/*//////////////////////////////////////////////////////////////////////////////////////////////*/
+
+
+/*//////////////////////////SECTION 3 ////////////////////////////////////*/
+
+#section3{
+	height: auto;
+	
+
+}
+#section3 h1{
+	font-size: 5em;
+	text-align: center;
+
+}
+
+
+#section3 h3{
+	font-size: 2rem;
+	
+}
+/*/////////////////////////////////////////////////////////////////////////////*/
+
+
+/*////////////////////////////////India News/////////////////////////*/
+
+#IndiaNews{
+	
+	
+}
+.newsContainer{
+	flex-direction: column;
+	align-items: center;
+
+
+
+}
+.newsBox{
+	margin: 2rem;
+
+	width: 95%;
+	/*height: 30rem;*/
+	
+
+}
+.newsBox:hover{
+}
+
+.newsBox img,.newsBox h4{
+	/*margin: 1rem;*/
+}
+.newsBox p{
+	font-size: 2.2rem;
+	line-height: 2;
+	word-spacing: 0.5rem;
+	
+} 
+
+.india-russia{
+	
+}
+
+.indian-women-army{
+	
+}
+.stop-rape{
+
+}
+
+.bjp-up{
+}
+/*//////////////////////////////////////////////////////////////////*/
+
+/*//////////////////////////////////////////WORLD NEWS//////////////////////////*/
+#worldNews{
+	
+}
+
+.antony-blinken{
+
+}
+.sri-lanka{
+
+}
+.taliban{
+}
+.china{
+
+}
+/*///////////////////////////////////////////////////////////////////////*/

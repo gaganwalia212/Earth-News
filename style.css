@@ -221,7 +221,8 @@ h2,h3,h4,h5,h6{
 
 .indian-women-army{
 	background: linear-gradient(0deg, rgba(204,200,199,0.6) 1%, rgba(204,200,199,0.6) 100%), url("indian-women-army.jpg") #6E85B2;
-	
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
 }
 .stop-rape{
 	background: linear-gradient(0deg, rgba(204,200,199,0.6) 1%, rgba(204,200,199,0.6) 100%), url("stop-rape.jpg") #6E85B2;
